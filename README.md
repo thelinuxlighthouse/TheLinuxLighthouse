@@ -13,10 +13,10 @@
 ## 🛠️ Tech Stack
 
 **Linux & Infrastructure**  
-`RHEL` `Fedora` `SUSE` `VMware` `LVM` `DataDomain` `Zabbix` `Bash` `Python`
+`RHEL` `Fedora` `SUSE` `openSUSE` `VMware` `LVM` `DataDomain` `Zabbix` `Bash` `Python`
 
 **Web Development (Learning)**  
-`JavaScript` `Vue.js` `Nuxt.js` `Supabase` `Git` `HTML/CSS (in progress)`
+`JavaScript` `Vue.js` `Nuxt.js` `Supabase` `Git` `HTML` `CSS`
 
 ---
 
