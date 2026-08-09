@@ -2,10 +2,10 @@
 
 **Veteran Linux Systems Administrator | Learning Full-Stack Development (Vue.js, Nuxt.js)**
 
-- 🖥️ Nearly 20 years managing Red Hat, Fedora, SUSE, and openSUSE Linux servers 
-- 🔐 Specialized in infrastructure security, backup systems, and monitoring (Zabbix, Nagios)  
+- 🖥️ 20+ years managing Red Hat, Fedora, SUSE, and openSUSE Linux servers 
+- 🔐 Specialized in infrastructure security, backup systems, and monitoring (Zabbix)  
 - 🐍 Experienced in scripting with **Bash** and **Python**  
-- 🌐 Currently transitioning into **full-stack web development** using **Vue.js**, **Nuxt.js**, and **Supabase**  
+- 🌐 Currently into **full-stack web development** using **Vue.js**, **Nuxt.js**, and **Supabase**  
 - 🧠 Always learning — focused on building secure, performant web applications
 
 ---
