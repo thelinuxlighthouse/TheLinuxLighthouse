@@ -1,6 +1,6 @@
 # 👋 Hi,
 
-**Veteran Linux Systems Administrator | Learning Full-Stack Development (Vue.js, Nuxt.js)**
+**Veteran Linux Systems Administrator | Learning Full-Stack Development (Vue.js, Nuxt.js, Django)**
 
 - 🖥️ 20+ years managing Red Hat, Fedora, SUSE, and openSUSE Linux servers 
 - 🔐 Specialized in infrastructure security, backup systems, and monitoring (Zabbix)  
@@ -16,7 +16,7 @@
 `RHEL` `Fedora` `SUSE` `openSUSE` `VMware` `LVM` `DataDomain` `Zabbix` `Bash` `Python`
 
 **Web Development (Learning)**  
-`JavaScript` `Vue.js` `Nuxt.js` `Supabase` `Git` `HTML` `CSS`
+`JavaScript` `Vue.js` `Nuxt.js` `Django` `Supabase` `Git` `HTML` `CSS`
 
 ---
 
