@@ -5,7 +5,7 @@
 - 🖥️ 20+ years managing Red Hat, Fedora, SUSE, and openSUSE Linux servers 
 - 🔐 Specialized in infrastructure security, backup systems, and monitoring (Zabbix)  
 - 🐍 Experienced in scripting with **Bash** and **Python**  
-- 🌐 Currently into **full-stack web development** using **Vue.js**, **Nuxt.js**, and **Supabase**  
+- 🌐 Currently into **full-stack web development** using **Vue.js**, **Nuxt.js**, **Django**, and **Supabase**  
 - 🧠 Always learning — focused on building secure, performant web applications
 
 ---
@@ -22,7 +22,7 @@
 
 ## 🚧 Current Focus
 
-- Building full-stack projects using Vue.js/Nuxt.js  
+- Building full-stack projects using Vue.js/Nuxt.js/Django  
 - Practicing REST APIs and component-based frontend development  
 - Exploring secure deployment strategies combining Linux + Web
 
