@@ -19,8 +19,9 @@
 
 **Web Development (Learning)**  
 `JavaScript` `Vue.js` `Nuxt.js` `Django` `Supabase` `Git` `HTML` `CSS`
-</div>
+
 ---
+</div>
 
 ## 🚧 Current Focus
 
