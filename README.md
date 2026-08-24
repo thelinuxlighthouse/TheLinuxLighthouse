@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,vue,python,nuxtjs,git" /><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,vue,python,nuxtjs,git,ansible,linux,openshift" /><br/>
 </div>
 
 **Linux & Infrastructure**  
