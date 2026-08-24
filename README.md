@@ -17,7 +17,7 @@
 **Linux & Infrastructure**  
 `RHEL` `Fedora` `SUSE` `openSUSE` `VMware` `LVM` `DataDomain` `Zabbix` `Bash` `Python`
 
-**Web Development (Learning)**  
+**Web Development**  
 `JavaScript` `Vue.js` `Nuxt.js` `Django` `Supabase` `Git` `HTML` `CSS`
 
 ---
