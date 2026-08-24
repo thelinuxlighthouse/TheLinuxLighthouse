@@ -3,7 +3,7 @@
 **Senior Linux Systems & Infrastructure Engineer | Automation, Ansible & OpenShift | Learning Full-Stack Development (Vue.js, Nuxt.js, Django)**
 
 - 🖥️ 20+ years managing Red Hat, Fedora, SUSE, and openSUSE Linux servers 
-- 🔐 Specialized in infrastructure security, backup systems, and monitoring (Zabbix)  
+- 🔐 Experienced infrastructure security, backup systems, and monitoring (Zabbix)  
 - 🐍 Experienced in scripting with **Python**  
 - 🌐 Currently into **full-stack web development** using **Vue.js**, **Nuxt.js**, **Django**, and **Supabase**  
 - 🧠 Always learning — focused on building secure, performant web applications
