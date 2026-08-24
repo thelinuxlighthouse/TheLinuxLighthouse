@@ -13,14 +13,13 @@
 ## 🛠️ Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,vue,python,nuxtjs,django,git,ansible,linux,openshift" /><br/><br/>
-</div>
 
 **Linux & Infrastructure**  
 `RHEL` `Fedora` `SUSE` `openSUSE` `VMware` `LVM` `DataDomain` `Zabbix` `Bash` `Python`
 
 **Web Development (Learning)**  
 `JavaScript` `Vue.js` `Nuxt.js` `Django` `Supabase` `Git` `HTML` `CSS`
-
+</div>
 ---
 
 ## 🚧 Current Focus
