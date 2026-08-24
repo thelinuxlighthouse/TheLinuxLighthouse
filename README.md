@@ -1,4 +1,3 @@
-
 ## 👋 Hi,
 
 **Veteran Linux Systems Administrator | Learning Full-Stack Development (Vue.js, Nuxt.js, Django)**
@@ -13,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,vue,python,nuxtjs,django,git,ansible,linux,openshift" /><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,vue,python,nuxtjs,django,git,ansible,linux,openshift" /><br/><br/>
 </div>
 
 **Linux & Infrastructure**  
@@ -36,7 +35,7 @@
 
 - Email: **thelinuxlighthouse@thelinuxlighthouse.com**  
 - LinkedIn: [linkedin.com/in/ahmed-husam-elsers](https://linkedin.com/in/ahmed-husam-elsers)  
-- YouTube: *The Linux Lighthouse*
+- YouTube: [The Linux Lighthouse](https://www.youtube.com/@TheLinuxLighthouse)
 
 ---
 
