@@ -11,6 +11,9 @@
 ---
 
 ## 🛠️ Tech Stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,vue,python,nuxtjs,git" /><br/>
+</div>
 
 **Linux & Infrastructure**  
 `RHEL` `Fedora` `SUSE` `openSUSE` `VMware` `LVM` `DataDomain` `Zabbix` `Bash` `Python`
