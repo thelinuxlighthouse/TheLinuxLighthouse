@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,python,django,git,ansible,linux,openshift" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,nestjs,python,django,git,ansible,linux,openshift,kubernetes" /><br/><br/>
 
 **Linux & Infrastructure**  
 `RHEL` `Fedora` `SUSE` `openSUSE` `VMware` `LVM` `DataDomain` `Zabbix` `Bash` `Python`
